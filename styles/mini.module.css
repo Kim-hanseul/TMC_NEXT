@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    height:200;
+}
+
+section{
+    height: 2000px;
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftransportkuu.com%2F1987%2F05%2F20%2F%25EA%25B0%2590%25EC%2584%25B1-%25EC%259D%25BC%25EB%259F%25AC%25EC%258A%25A4%25ED%258A%25B8-%25EB%2585%25B8%25ED%258A%25B8%25EB%25B6%2581-%25EB%25B0%25B0%25EA%25B2%25BD%25ED%2599%2594%25EB%25A9%25B4-%25EA%25B3%25A0%25ED%2599%2594%25EC%25A7%2588%2F&psig=AOvVaw3bmqPLdRuEYIzXUQ-cDdoS&ust=1652084961748000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCg7py-z_cCFQAAAAAdAAAAABAM) fixed;
+}
+
+.photo{
+    position: absolute;
+}
