@@ -7,7 +7,6 @@ export function Layout({ children }){
     <div className={styles.container}>
       <main className={styles.main}>{children}</main>
       <Pagination/>
-      <Modal/>
     </div>
 
   );

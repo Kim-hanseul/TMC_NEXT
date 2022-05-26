@@ -3,6 +3,11 @@
   src: url(./fonts/BMEULJIROTTF.ttf) format('woff');
   font-weight: normal;
   font-style: normal;
+  
+  font-family: 'SDA';
+  src: url(./fonts/BMHANNAPro.ttf) format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .a{
@@ -10,7 +15,7 @@
   font-weight: normal;
   font-style: normal;
   font-size: 30px;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .textBox {
@@ -27,14 +32,23 @@
   height: 80px;
 }
 
-.loginIcon {
-  resize : contain;
-  display: block;
-  contain: content;
+.profileButton {
+  border: 0px solid black;
+  height: 90px;
+  width: 90px;
   position: fixed;
-  top: 25px;
+  top: 40px;
   right: 50px;
   border-radius: 60%;
   overflow: hidden;
-  object-fit: cover;
+  object-fit: none;
 }
+
+.b{
+  font-family: 'SDA';
+  src: url(./fonts/BMHANNAPro.ttf) format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+}
+

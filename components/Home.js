@@ -9,7 +9,7 @@ export function Home() {
             <ReactPlayer
                 className='react-player'
                 url={'https://www.youtube.com/watch?v=1hY8f20tqlI'}    // 플레이어 url
-                width='100vw'         // 플레이어 크기 (가로)
+                width='95vw'         // 플레이어 크기 (가로)
                 height='100vh'        // 플레이어 크기 (세로)
                 playing={true}        // 자동 재생 on
                 muted={true}          // 자동 재생시 음소거 on
@@ -26,7 +26,7 @@ export function Home() {
             <ReactPlayer
                 className='react-player2'
                 url={'https://www.youtube.com/watch?v=2fDzCWNS3ig'}    // 플레이어 url
-                width='100vw'         // 플레이어 크기 (가로)
+                width='95vw'         // 플레이어 크기 (가로)
                 height='100vh'        // 플레이어 크기 (세로)
                 playing={true}        // 자동 재생 on
                 muted={true}          // 자동재생시 음소거 on

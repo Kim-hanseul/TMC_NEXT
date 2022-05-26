@@ -1,4 +1,5 @@
 import React from "react";
+import { Modal } from "../Modal";
 
 export function Mypage({onChange, onSubmit, withdraw}){
     return (
