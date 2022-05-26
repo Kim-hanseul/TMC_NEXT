@@ -36,7 +36,7 @@ export function Sidebar({ width=280, children }){
 
   return (
     <div className={styles.container}>
-      <div ref={side}  className={styles.sidebar} style={{ width: `${width}px`, height: '100%',  transform: `translatex(${-xPosition}px)`}}>
+      <div ref={side}  className={styles.sidebar} style={{ width: `${width}px`, height: '100%',transform: `translatex(${-xPosition}px)`}}>
           <button onMouseEnter={() => toggleMenu()}
           className={styles.button} >
           </button>
