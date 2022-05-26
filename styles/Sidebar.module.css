@@ -19,6 +19,7 @@
     color: #202020;
     height: 100%;
     z-index: 99;
+    opacity: 0.8;
     
     
   }
@@ -26,18 +27,18 @@
     position: relative;
     left: 290px; 
     top: 30%;
-    width: 60px;
-    height: 300px;
+    width: 70px;
+    height: 220px;
     z-index: 99;
     transition: 0.6s ease;
     /* border: 0px solid #0c0c0c; */ /** 외곽선 스타일 **/
-    border-radius: 70px;
+    border-radius: 90px;
     overflow: hidden;
     font-family: 'SDS';
     font-weight: normal;
     font-style: normal;
-    font-size: 50px;
-    opacity: 1;
+    font-size: 35px;
+    opacity: 0.8;
 
   }
 
